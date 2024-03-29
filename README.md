@@ -1,5 +1,5 @@
-# linguagemgo
-Linguagem GO
+# Linguagem GO
+
 
 Go é uma linguagem de programação de código aberto. Ela foi desenvolvida pelo Google em 2007, mas foi lançada em código aberto apenas em 2009. Acredita-se que ela possa substituir o Java no futuro. Fortemente tipada e compilada, seu código-fonte é executado diretamente pelo sistema operacional ou pelo processador. Essa linguagem permite a programação simultânea, bem como o gerenciamento de memória e a execução adiada de algumas funções. 
 
